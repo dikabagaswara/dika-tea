@@ -1,0 +1,26 @@
+{
+  "name": "@dikabagaswara/dika-tea",
+  "version": "1.0.0",
+  "description": "Hello Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikabagaswara/dika-tea.git"
+  },
+  "keywords": [
+    "Tea",
+    "Tutor"
+  ],
+  "author": "dika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikabagaswara/dika-tea/issues"
+  },
+  "homepage": "https://github.com/dikabagaswara/dika-tea#readme",
+  "dependencies": {
+    "dika-tea": "^1.0.0"
+  }
+}
