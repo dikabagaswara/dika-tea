@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/dikabagaswara/dika-tea#readme",
   "dependencies": {
-    "dika-tea": "^1.0.0"
+    "dika-tea": "^1.4.0"
   }
 }
