@@ -1,6 +1,6 @@
 {
   "name": "@dikabagaswara/dika-tea",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "Hello Tea",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dikabagaswara/dika-tea.git"
+    "url": "https://github.com/dikabagaswara/dika-tea.git"
   },
   "keywords": [
     "Tea",
